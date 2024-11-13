@@ -19,3 +19,13 @@ header nav a
     text-decoration: none;
 
 }
+form
+{
+    display: flex;
+    flex-direction: column;
+    max-width: 380px;
+}
+form label, input, textarea, button
+{
+    margin-bottom: 10px;
+}

@@ -1,4 +1,4 @@
 # MyPortfolio
 A simple portfolio website to showcase my project and skills
 This is a website that shows my skills 
-https://jennarine.github.io/MyPortfolio/
+[text](https://jennarine.github.io/MyPortfolio/)

@@ -31,3 +31,15 @@ form label, input, textarea, button
 {
     margin-bottom: 10px;
 }
+button
+{
+    background: #007bff;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+button:hover
+{
+    background: #0056b3;
+}
